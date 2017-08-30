@@ -27,8 +27,8 @@ non-publicly.
 But worst of all of them is European Commission. It is also not voted for, instead it is appointed by the governments of the EU. The
 populus has no say in who gets to represent "them" in the Commission. Even the European Parliament, which is voted for by the people, 
 cannot appoint people to be in the European Commission, they can only accept or deny the entry of people appointed by the governments.
-Worst of all, the European Commission has the right of initiative in the legislative procedure in the European Union, meaning that it 
- - and only it - can initiate laws. This results in the governments having more of a say in the EU than the people - two out of three
+Worst of all, the European Commission has the right of initiative in the legislative procedure in the European Union, meaning that it, 
+and only it, can initiate laws. This results in the governments having more of a say in the EU than the people - two out of three
 legislative organs directly represent the governments, and they have more legislative powers than the one that is voted for. Add to this 
 the facts that most laws are discussed beforehand in the intransparent and informal "Trilogue" between members of all legislative organs,
 and that Jean-Claude Juncker, the head of the European Commission, called the European Parliament "ridiculous"
