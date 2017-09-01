@@ -12,7 +12,7 @@ The European parliament is democratically speaking better off than the Commissio
 the votes cast are not cast equal; for example, Malta, which has 400,000 inhabitants, is represented with six seats in the European 
 parliament and Germany holds only 96 seats for 82 million inhabitants. This inadvertently leads to a Maltese vote being 12.8 times more
 "important" for the European Parliament than a German one, which is a definitive breach of one of the core principles of a democracy
-(namely the right to a general, direct, free, secret and EQUAL vote). White a somewhat fair representation of all countries would lead to
+(namely the right to a general, direct, free, secret and EQUAL vote). While a somewhat fair representation of all countries would lead to
 an unmanagable number of representatives, a system could be implemented in which each EU citizen gets to cast one vote for a representative
 of their own country and another vote for a representative of any other EU member country. This would make the European Parliament somewhat
 more democratic.
