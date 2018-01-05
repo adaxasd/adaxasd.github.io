@@ -10,8 +10,8 @@ title: My own blog
 email: sushimeowcat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello and welcome to my own personal website.
-  It is currently under construction.
-  Content will follow soon!
+  I try to give a fact-based view of topics ranging from politics to science.
+  More content will follow soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adaxasd.github.io/" # the base hostname & protocol for your site
 twitter_username: N.A.
