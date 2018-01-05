@@ -24,7 +24,7 @@ lack of transparency: Up to the treaty of Lissabon, all meetings of the Council 
 treaty, not much has changed: The most important meetings, those concerning "general matters" and "foreign matters" are still held 
 non-publicly.
 
-But worst of all of them is European Commission. It is also not voted for, instead it is appointed by the governments of the EU. The
+But worst of all of them is the European Commission. It is also not voted for, instead it is appointed by the governments of the EU. The
 populus has no say in who gets to represent "them" in the Commission. Even the European Parliament, which is voted for by the people, 
 cannot appoint people to be in the European Commission, they can only accept or deny the entry of people appointed by the governments.
 Worst of all, the European Commission has the right of initiative in the legislative procedure in the European Union, meaning that it, 
@@ -36,7 +36,7 @@ and you can see why, as one member of the European Parliament put it, the EU par
 
 This lack of democracy, of course, is reflected by a lack of interest by the voter: For years now, the participation rate in EU elections
 has been going down. Interestingly enough, the EU is probably also the only government-like entity in which a vast majority of its
-nocitizens do not know their "Head of State".
+citizens do not know their "Head of State".
 
 All of these factors combined lead to the conclusion that the EU needs urgent democratic reforms, if possible even with elements of a
 direct democracy. The question is just wether it is going to do that, and the answer is probably not.
